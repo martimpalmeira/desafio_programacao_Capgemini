@@ -1,5 +1,5 @@
 # desafio_programacao
-instruções para rodas a aplicação:
+Instruções para rodar as aplicações:
 1. Acessar a pasta desafio_programacao localizada no repositório;
 2. Acessar a pasta src localizada na pasta desafio_programacao;
 3. Acessar a pasta questoes localizada na pasta src;
