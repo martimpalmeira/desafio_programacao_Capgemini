@@ -8,7 +8,7 @@ public class Questao02_d2 {
 		int x = lerX(), tamArray = lerTamanho();
 		int n[] = new int[tamArray];
 		n = formarArray(tamArray);
-		System.out.print("O vetor possui "+calcularParesComDifIgualX(n, x)+" pares de números cuja diferença é igual à "+x);
+		System.out.print(calcularParesComDifIgualX(n, x));
 
 	}
 
