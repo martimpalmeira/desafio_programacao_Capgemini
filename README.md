@@ -7,5 +7,6 @@ Instruções para rodar as aplicações:
 * Questão 2 do desafio 2: Executar o programa, digitar o valor de X no console, informar o tamanho do vetor e digitar um número de cada vez que irá preencher este vetor;
 * Questão 3 do desafio 2: Executar o programa e digitar uma String no console;
 
-
-Os programas foram feitos na linguagem java, utilizando a IDE Eclipse.
+Tecnologias utilizadas:
+* Linguagem de programação Java;
+* Eclipse IDE;
