@@ -2,8 +2,6 @@ package desafio_2;
 
 public class Questao01Teste {
 
-	public Questao01 questao01;
-
 	public static void main(String[] args) {
 		int[] array = { 9, 2, 1, 4, 6 };
 		int resultadoEsperado = 4;
