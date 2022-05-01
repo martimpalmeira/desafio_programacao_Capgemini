@@ -1,4 +1,4 @@
-# desafio_programacaoCapgemini
+# desafio_programacao_Capgemini
 Instruções para rodar as aplicações:
 * Os arquivo devem ser rodados numa máquina virtual java, e salvados no mesmo pacote do mesmo projeto.
 
